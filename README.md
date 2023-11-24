@@ -31,7 +31,10 @@ http://www.w3.org/ns.dcat#landingPage
 
 Click the "Create Resource Definition" button again, and this time we need to edit the definition of Distribution/
 
-DCAT has defined the predicate for the relationship between a Distribution and the service that serves it:  **"dcat:accessService"**   `http://www.w3.org/ns.dcat#accessService`
+DCAT has defined the predicate for the relationship between a Distribution and the service that serves it:  **"dcat:accessService"**   
+
+`http://www.w3.org/ns.dcat#accessService`
+`http://www.w3.org/ns.dcat#theme`
 
 ![](images/add-child-distribution.png)
 
