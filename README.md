@@ -29,7 +29,7 @@ http://www.w3.org/ns.dcat#landingPage
 
 ### We need to **make _DataService_ a child of Distribution**
 
-Click the "Create Resource Definition" button again, and this time we need to edit the definition of Distribution/
+Click the "Distribution" menu item, to begin editing it.
 
 DCAT has defined the predicate for the relationship between a Distribution and the service that serves it:  **"dcat:accessService"**   
 
