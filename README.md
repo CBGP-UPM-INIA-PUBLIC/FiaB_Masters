@@ -4,7 +4,7 @@ This is FAIR in a Box for the UPM Computational Biology Master's programme
 
 ./run-me-to-install.sh
 
-The "masters-ready-to-go" folder will appear in your home folder
+The "masters-ready-to-go" folder will appear **in your home folder** (/home/osboxes/masters-ready-to-go)
 
 docker-compose up, and in a minute or two, you'll be up and running!
 
